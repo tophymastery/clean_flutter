@@ -1,5 +1,6 @@
 # cleanarchitectureflutter
 
+This repo is self learning from youtube https://www.youtube.com/watch?v=dc3B_mMrZ-Q
 A new Flutter application.
 
 ## Getting Started
